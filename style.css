@@ -107,6 +107,8 @@ button{
     cursor:pointer;
 
     font-size:16px;
+
+    
 }
 
 .payment-card{
@@ -183,3 +185,8 @@ button{
 
     color:#666;
 }
+.talk-to-sales button:hover{
+    background:#ff0000;
+    color:#fff;
+}
+
